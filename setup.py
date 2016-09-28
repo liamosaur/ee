@@ -6,7 +6,7 @@ setup(
     author="snare",
     author_email="snare@ho.ax",
     description=("A wrapper for dd"),
-    license="Buy snare a beer",
+    license="Buy liamosaur a beer",
     keywords="dd wrapper",
     url="https://github.com/snare/ee",
     packages=['ee'],
